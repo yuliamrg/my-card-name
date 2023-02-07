@@ -66,6 +66,18 @@ const data = {
       color: "yellow",
       emoji: "💬",
     },
+    {
+      name: "songs",
+      url: "https://example.com/",
+      color: "blue",
+      emoji: "🎶",
+    },
+    {
+      name: "avatar",
+      url: "https://example.com/",
+      color: "gray",
+      emoji: "🎱",
+    },
   ],
   footer: "Made with Love on Colombia",
 }
