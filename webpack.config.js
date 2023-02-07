@@ -24,8 +24,8 @@ module.exports = {
   Plugins: [
     new htmlWebPackPlugin({
       inject: true,
-      template: './public/index.html',
-      filename: './index.html',
-    })
-  ]
+      template: "./public/index.html",
+      filename: "./index.html",
+    }),
+  ],
 }
